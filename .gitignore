@@ -1,3 +1,27 @@
-*.pyc
+# ── Virtual Environment ──────────────────────────
+301venv/
+env/
+.env/
+.venv/
+
+# ── Python ───────────────────────────────────────
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# ── Jupyter Notebooks ────────────────────────────
 .ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── Environment Variables ─────────────────────────
+.env
+.env.local
+
+# ── IDE / Editor ─────────────────────────────────
+.vscode/
+.idea/
+*.code-workspace
