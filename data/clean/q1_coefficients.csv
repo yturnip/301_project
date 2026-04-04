@@ -1,0 +1,24 @@
+Feature,Coefficient
+Parental Involvement: Low,-2.0170855190846435
+Access to Resources: Low,-2.002609127906662
+Motivation: Low,-1.2001415403388291
+Family Income: Low,-1.0807068724976023
+Parental Involvement: Medium,-1.0517179349237638
+Teacher Quality: Low,-1.0390770975270711
+Access to Resources: Medium,-1.0254556223485511
+Learning Disabilities,-0.8228281004804034
+Motivation: Medium,-0.6198165239243045
+Teacher Quality: Medium,-0.5949027297189742
+Family Income: Medium,-0.5591196006779788
+Parent Education: High School,-0.42338188082885697
+Physical_Activity,0.19621103926890074
+Distance from Home: Moderate,0.4341218902216557
+Peer Influence: Neutral,0.5528319820027922
+Extracurricular Activities,0.5571729533163583
+Parent Education: Postgraduate,0.569103723650896
+Tutoring_Sessions,0.6126154465740026
+Previous_Scores,0.7017332868581612
+Distance from Home: Near,0.9500620810011617
+Peer Influence: Positive,1.0284508657908635
+Hours_Studied,1.7728003403545773
+Attendance,2.269242878570375
