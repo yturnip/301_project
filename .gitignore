@@ -25,3 +25,13 @@ build/
 .vscode/
 .idea/
 *.code-workspace
+
+# ── Tableau ───────────────────────────────
+*.twb
+*.twbr
+
+# ── Miscellaneous ───────────────────────────────
+.DS_Store
+*.log
+*.bak
+*.tmp   
