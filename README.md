@@ -8,6 +8,7 @@ A multi-part data analysis project investigating the academic, behavioral, and s
 - **Q3:** Can we classify students as at-risk?
 
 ## Project Structure
+```
 ├── data/              # raw and clean data 
 ├── database/          # SQLite database (students.db)
 ├── notebooks/         # Jupyter notebooks for each question
@@ -16,7 +17,7 @@ A multi-part data analysis project investigating the academic, behavioral, and s
 ├── .gitignore
 ├── README.md
 └── requirements.txt   # the complete list of packages installed
-
+```
 ## Setup Instructions
 
 1. Clone this repository to your local machine.
