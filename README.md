@@ -1,4 +1,4 @@
-## Student Performance Analysis
+# Student Performance Analysis
 
 A multi-part data analysis project investigating the academic, behavioral, and socioeconomic factors that predict student exam performance and identify at-risk students.
 
