@@ -1,4 +1,21 @@
-## 301_project
+## Student Performance Analysis
+
+A multi-part data analysis project investigating the academic, behavioral, and socioeconomic factors that predict student exam performance and identify at-risk students.
+
+## Questions Explored
+- **Q1:** Do study hours, attendance, and parental involvement actually drive exam scores?
+- **Q2:** Which combination of factors best predicts exam performance?
+- **Q3:** Can we classify students as at-risk?
+
+## Project Structure
+├── data/              # raw and clean data 
+├── database/          # SQLite database (students.db)
+├── notebooks/         # Jupyter notebooks for each question
+├── report/figures/    # Generated charts and diagnostic plots
+├── visualization/     # Tableau dashboard
+├── .gitignore
+├── README.md
+└── requirements.txt   # the complete list of packages installed
 
 ## Setup Instructions
 
@@ -17,3 +34,8 @@
    - **Q2 Feature Importance:** Run `notebooks/q2_prediction_linear.ipynb` to apply the Standard Scaler and Backward Selection. _(Note: The `random_state` is fixed at `91666719` to ensure exact reproducibility)._
    - **Q3 Classification:** Run `notebooks/q3_classification.ipynb` to execute the Random Forest Classifier pipeline. _(Note: The `random_state` is fixed at `301` to ensure exact reproducibility)._
 3. **Dashboards:** Open the `.twbx` (Tableau Packaged Workbook) file located in the `visualizations/` folder. This workbook is pre-linked to the generated CSVs to recreate the final charts.
+
+## Team
+- Edgar Sipayung
+- Eleonora Ansella Kartono
+- Yohanes Amelio Turnip
